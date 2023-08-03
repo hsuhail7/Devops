@@ -1,0 +1,5 @@
+This Is my first file in Git.
+I have updated git config file so name and emial is updated.
+I have an updating this file so that it will reflect on Git.
+
+Now improving this reposirty by making changes so that it can reflect in GitHub UI 
