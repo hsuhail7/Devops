@@ -6,6 +6,8 @@
 
 #I am trying to be consist on daily basis and invest sometime to learn the required skill set.
 
+#Also I am doing 90daysofDevopsChallenge by Shubhum Londhe so its helping a lot. 
+
 #However I am pretty confident that I can do it.
 
 #Thank you for going through this repository and my profile.
