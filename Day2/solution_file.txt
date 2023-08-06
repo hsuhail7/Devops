@@ -1,0 +1,13 @@
+#As per the Day2 Task answers are provided below
+
+1. Command to check present working: pwd
+
+2. List all files in a Directory including hidden files: ls -al
+
+3. Command to created nested directory: mkdir -p A/B/C/D/E
+
+#Download the script File with name script.sh and run in you local machine.
+
+# script will do the same thing without any manual input.
+
+#Thanks
