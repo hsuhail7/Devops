@@ -6,6 +6,6 @@
 
 #Article has been completed and published in Hashnode also backed up in GitHub.
 
-#Article has been backed up in Blog Repository and can be viewed by anyone.
+#Article has been backed up in Blogs Repository and can be viewed by anyone.
 
 #Thanks
