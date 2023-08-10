@@ -1,0 +1,8 @@
+#For this Task solution has been provided on a blog.
+
+#refer below link to acees the article.
+
+https://infratodevopsjourney.hashnode.dev/shebang-a-beginners-guide-to-the-shebang-in-shell-scripting
+
+#The file variable_number.sh script takes user input and compare the number also print the numbers once compared
+
