@@ -14,3 +14,5 @@ so this is how the command will look like
 * * * * * /home/ubuntu/Learning_Devops/Learning_Devops/Day5/backup_work.sh
 
 Note: I am running this backup job every min as this for testing purpose you can change the backup frequency as per you requirement
+
+Task 4 has been completed refer file user_username.sh
