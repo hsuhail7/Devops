@@ -1,0 +1,16 @@
+#This is a solution file for task Day 5 Task
+
+Task 1 has been completed refer file script.sh
+
+Task 2 has been completed refer file backup_work.sh
+
+Task 3 has been completed 
+
+For Task 3 a cron job was required to automate the backup script
+so you have to type "crontab -e" and it will open a window click "i" for insert
+Now mention the backup frequesncy i.e how many times you want to take place along with backup script location which will run
+so this is how the command will look like
+
+* * * * * /home/ubuntu/Learning_Devops/Learning_Devops/Day5/backup_work.sh
+
+Note: I am running this backup job every min as this for testing purpose you can change the backup frequency as per you requirement
