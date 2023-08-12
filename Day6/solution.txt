@@ -1,0 +1,3 @@
+#Day 6 Task has been completed refer below article 
+
+https://infratodevopsjourney.hashnode.dev/understanding-file-permissions-in-linux
