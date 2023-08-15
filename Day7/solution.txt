@@ -1,0 +1,13 @@
+#Day 7 Task has been completed
+
+Hre is the link: https://infratodevopsjourney.hashnode.dev/setting-up-docker-and-jenkins-on-ubuntu-ubuntu-22043-a-beginner-friendly-guide
+
+#In the Task there was asked to read about systemctl and service
+
+Both command are used to check docker service related like start stop restart.
+However systemctl are used now a days in latest ubunuty machine in oldversion service command is used
+syntax looks like
+
+systemctl status docker
+
+service docker status
